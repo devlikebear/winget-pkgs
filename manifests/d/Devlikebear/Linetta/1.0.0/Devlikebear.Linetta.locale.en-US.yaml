@@ -4,6 +4,7 @@ PackageVersion: 1.0.0
 PackageLocale: en-US
 Publisher: devlikebear
 PublisherUrl: https://github.com/devlikebear
+PrivacyUrl: https://github.com/devlikebear/linetta/blob/v1.0.0/docs/privacy-policy.md
 Author: devlikebear
 PackageName: Linetta
 PackageUrl: https://github.com/devlikebear/linetta
